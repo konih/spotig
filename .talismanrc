@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: .github/workflows/go.yml
+  checksum: 40089fee444393099e9eab18ab8a8159f099158f59a2eda2ad4eb6a498091c64
+version: "1.0"
